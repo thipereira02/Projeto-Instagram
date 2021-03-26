@@ -86,7 +86,7 @@ body{
     margin-right: 7px;
 }
 .stories img{
-    margin-top: 5px;
+    margin-top: 4.5px;
     margin-left: 5px;
     width: 56px;
     border-radius: 50%;
@@ -95,6 +95,7 @@ body{
     width: 66px;
     background-image: url('files/stories_background.jpg');
     background-size: cover;
+    border-radius: 50%;
 }
 .seta{
     height: 26px;
