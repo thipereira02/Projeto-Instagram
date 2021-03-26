@@ -314,6 +314,12 @@ button:hover{
     .topo{
         width: 100%;
     }
+    .logos{
+        margin-left: 10px;
+    }
+    .topoiconesdir{
+        margin-right: 10px;
+    }
     .corpo{
         margin-right: auto;
         margin-left: auto;
