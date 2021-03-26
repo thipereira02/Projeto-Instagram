@@ -354,8 +354,10 @@ button:hover{
         margin-right: 15px;
     }
     .conteudo{
-        width: 100%;
         margin: 54px auto 0px auto;
+    }
+    .corpo{
+        width: 100%;
     }
     .stories{
         width: 100%;
